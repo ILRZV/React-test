@@ -1,3 +1,14 @@
+.game {
+  display: flex;
+}
+
+.game_board {
+  display: inline;
+}
+
+.game_info {
+  display: inline;
+}
 .board {
   width: 500px;
   height: 500px;
